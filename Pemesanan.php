@@ -66,4 +66,4 @@ $obj1 = new Ekonomi("Kertajaya", "12B", "Gerbong 3", "Makassar", "Pangkep", "Kam
 $obj1->setDiskon(50);
 echo $obj1->getInfo();
 
-?>
+?>+
